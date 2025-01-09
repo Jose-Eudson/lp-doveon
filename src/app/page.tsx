@@ -1,16 +1,10 @@
-import { Footer } from "@/components/footer"
-import { Header } from "@/components/header"
-import { TopBar } from "@/components/top-bar"
+import ParaEmpresas from "./for-business/page"
 
 export default function Home(){
   return (
 
     <div className='bg-white'>
-
-      <TopBar />
-      <Header />
-      <Footer />
-      
+      <ParaEmpresas />;  
     </div>
   )
 

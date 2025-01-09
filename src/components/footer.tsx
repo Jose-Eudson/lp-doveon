@@ -2,7 +2,7 @@ import { memo } from 'react';
 
 function FooterComponent() {
     return (
-        <footer className="bg-[#d4d4d4] text-white py-10">
+        <footer className="container mx-auto bg-white text-white py-10">
             <div className="ml-96 px-20 flex justify-between text-center">
                 <div>
                    
