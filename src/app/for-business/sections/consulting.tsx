@@ -10,7 +10,7 @@ function ConsultingComponent() {
             Consultoria de tecnologia, reimaginada
           </h2>
           <p className="text-[#6E6E6E] text-lg">
-            A BossaBox é uma consultoria de tecnologia e inovação, mas
+            A Doveon é uma consultoria de tecnologia e inovação, mas
             fundamentalmente diferente.
           </p>
         </div>
@@ -76,7 +76,7 @@ function ConsultingComponent() {
             de eficiência e qualidade do trabalho como garantia em contrato.
           </p>
           <p className="text-[#6E6E6E] text-lg mb-8">
-            Como parâmetro de performance, a BossaBox usa as métricas DORA, do
+            Como parâmetro de performance, a Doveon usa as métricas DORA, do
             Google, como principal modelo de garantia. <br />
             <strong>Baixa performance? Você não paga.</strong>
           </p>

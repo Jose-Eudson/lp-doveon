@@ -11,7 +11,7 @@ function PerformanceComponent() {
             DORA em parceria com o Google.
           </p>
           <p className="text-white text-base md:text-lg mb-4 ml-4">
-            Foi comparada a performance média de todos os Squads da BossaBox com a média do setor de
+            Foi comparada a performance média de todos os Squads da Doveon com a média do setor de
             Tecnologia.
           </p>
           <p className="text-white text-base md:text-lg mb-8 ml-4">
@@ -33,7 +33,7 @@ function PerformanceComponent() {
                 <strong>Média:</strong> 1 a cada 3 dias
               </p>
               <p className="text-white text-sm">
-                <strong>BossaBox:</strong> Pelo menos 2 por dia
+                <strong>Doveon:</strong> Pelo menos 2 por dia
               </p>
             </div>
             <div>
@@ -46,7 +46,7 @@ function PerformanceComponent() {
                 <strong>Média:</strong> 11 horas
               </p>
               <p className="text-white text-sm">
-                <strong>BossaBox:</strong> 1 hora
+                <strong>Doveon:</strong> 1 hora
               </p>
             </div>
             <div>
@@ -59,7 +59,7 @@ function PerformanceComponent() {
                 <strong>Média:</strong> 3 dias
               </p>
               <p className="text-white text-sm">
-                <strong>BossaBox:</strong> 1 dia
+                <strong>Doveon:</strong> 1 dia
               </p>
             </div>
             <div>
@@ -72,7 +72,7 @@ function PerformanceComponent() {
                 <strong>Média:</strong> 21%
               </p>
               <p className="text-white text-sm">
-                <strong>BossaBox:</strong> 10%
+                <strong>Doveon:</strong> 10%
               </p>
             </div>
           </div>

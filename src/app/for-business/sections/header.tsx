@@ -5,9 +5,10 @@ function HeaderComponent() {
     <header className="container mx-auto bg-white h-[90vh] flex flex-col-reverse md:flex-row items-center justify-center text-center md:text-left px-4 md:px-8">
       {/* Conteúdo do Texto */}
       <div className="flex-1">
-        <h1 className="text-[#1D1D1D] text-2xl md:text-5xl font-medium leading-tight mb-6">
+        <p className="text-[#6E6E6E] text-lg font-medium mb-8 max-w-xl">Para Empresas</p>
+        <h1 className="text-[#1D1D1D] text-2xl md:text-4xl font-sans leading-tight mb-6">
           Squads com performance<br />
-          <span className="text-[#5546FF]">garantida em contrato</span>
+          <span className="text-[#1D1D1D] font-bold">garantida em contrato</span>
         </h1>
         <p className="text-[#6E6E6E] text-lg font-medium mb-8 max-w-xl">
           Grandes empresas e scale-ups usam a Doveon para trazer velocidade e qualidade no desenvolvimento de produtos digitais.

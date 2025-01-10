@@ -32,7 +32,7 @@ function SquadsComponent() {
           </h3>
           <p className="text-[#6E6E6E] text-lg mb-4">
             Por não possuir barreiras geográficas e trabalhar com maior
-            flexibilidade, a BossaBox possui vantagens ao competir por talento
+            flexibilidade, a Doveon possui vantagens ao competir por talento
             no mercado.
           </p>
           <p className="text-[#6E6E6E] text-lg mb-8">

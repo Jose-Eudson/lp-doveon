@@ -73,7 +73,7 @@ function SpecialistsComponent() {
             Especialistas para você focar no core
           </h3>
           <p className="text-[#6E6E6E] text-lg mb-4">
-            Na BossaBox, você tem um time de Especialistas em produto e
+            Na Doveon, você tem um time de Especialistas em produto e
             tecnologia gerenciando o Squad para que você possa ser mais
             estratégico e produtivo.
           </p>
